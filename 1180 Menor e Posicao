@@ -1,3 +1,15 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Vitoria Mota Reis
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1180
+Data        : 23/08/2026
+Objetivo    : Exibir o menor valor de um vetor e sua posição
+Dificuldade : 
+Uso de IA   : indicar melhorias 
+-------------------------------------------------------------------------- */
+
+
 #include <stdio.h>
 
 int main (){
